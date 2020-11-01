@@ -1,14 +1,10 @@
 ---
-id: projects
-title: Projects
+id: danagelh
+title: danagelhoutClone
 ---
 
-Embed any notable projects in this page.
+This is danagelhoutClone project.
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
+[links](https://github.com/danagelh/danagelhoutClone)
 
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
-
-![Add alternate text for image](./assets/rosemary.png)
+![Screenshot of repository](./assets/danagelhoutCloneScreenshot.png)
